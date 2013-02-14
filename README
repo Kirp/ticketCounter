@@ -1,0 +1,13 @@
+Ticket Counter with report
+
+---------------
+
+Command line counter for computing how many Tickets have been done as well as
+classify them into 2 types of tickets. This will then be computed to get the 
+total work done in the day in terms of minutes per ticket type.
+
+Also, it generates a report containing the ticket numbers for every session end.
+
+---------------
+
+
